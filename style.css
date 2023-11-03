@@ -1,0 +1,46 @@
+
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  color: aqua;
+  text-align: start;
+  font-size: medium;
+}
+.tribute {
+  margin: 0 30px;
+  width: 500px;
+}
+
+.tribute p {
+  line-height: 1.5em;
+}
+.tribute li{
+  color: yellow;
+}
+table{
+  border: 2px;
+  width: 180%;
+  height: 120px;
+  border-color: blue;
+  background-color: pink;
+  table-layout: fixed;
+  margin-left:120px ;
+}
+img{
+  height: 90vh;
+  width: 30%;
+  display: flex;
+  margin-left: 420px;
+  border-radius: 414px;
+  align-items: center;
+}
+body{
+  background-image: url(plouzane1.jpg);
+  width: 100%;
+  height: 100vh;
+}
